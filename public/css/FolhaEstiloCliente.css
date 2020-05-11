@@ -1,0 +1,22 @@
+.btn-e {
+    background-color: #5392c9;
+}
+
+.btn-x {
+    background-color: red;
+}
+
+#formulario {
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.b {
+    float: right;
+}
+
+.tabela {
+    overflow: scroll;
+}
